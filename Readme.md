@@ -18,10 +18,7 @@
 
 ## 安装与使用
 
-在浏览器中打开 [http://localhost:3000](http://localhost:3000)。
-
-## 贡献
-欢迎贡献！请阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 了解更多细节。
+在浏览器中打开 [[http://localhost:3000](https://yangboshun.github.io/City-Walk-Lab/)]([http://localhost:3000](https://yangboshun.github.io/City-Walk-Lab/))。
 
 ## 许可证
 本项目使用Apache-2.0许可证，详情请参阅 [LICENSE](LICENSE)。
